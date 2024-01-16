@@ -25,5 +25,5 @@ export const supportedLanguages = [
 ]
 
 
-export const OPENAI_KEY = "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"
+export const OPENAI_KEY = "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"
 //"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"
