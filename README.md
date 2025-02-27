@@ -56,7 +56,7 @@
 - Browse (after authentication)
   - Header
   - Main Movie
-    - Tailer in Background
+    - Trailer in Background
     - Title & Description
     - MovieSuggestions
 
